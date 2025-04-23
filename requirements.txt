@@ -1,2 +1,5 @@
 streamlit==1.17.0
 import streamlit as st
+pip install -r requirements.txt
+streamlit run chatbot.py
+http://localhost:8501
